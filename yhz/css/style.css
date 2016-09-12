@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0;}
+#dh { background: #fff;border: none;}
+#name .nav li a {background: none;}
+#name .nav li a:hover{color: #aa81f3}
+.jumbotron {padding-top: 150px}
+.jumbotron h2 {text-align: center}
+.jumbotron p {color: #97a0af;font-size: 16px;text-align: center;margin: 30px auto 40px auto}
+.jumbotron a {background: #aa81f3 !important; border: 1px solid #aa81f3 !important;}
+.box {width: 1130px; height: 565px; margin: 0 auto;padding-top: 100px;}
+.box p {margin: 20px 0}
+.box .box-1 {width: 50px;border: 1px solid #aa81f3;margin-top: 30px}
+.box .box-2 { margin-top: 50px; padding-top: 45px;background: url("../images/gongju.png") no-repeat 15px 0}
+.box .box-3 { margin-top: 50px; padding-top: 45px;background: url("../images/wendang.png") no-repeat 15px 0}
+.box .box-4 { margin-top: 50px; padding-top: 45px;background: url("../images/bao.png") no-repeat 15px 0}
+#box3 h3, #box4 h3 {color: #374760; margin: 100px auto 25px; font-weight: bold; text-align: center}
+#box3 .line2, #box4 .line3 {width: 50px; height: 3px; background: #aa81f3; margin: 20px auto}
+#box3 .tubiao {display: block; padding: 10px; background: #fff; border: 1px solid transparent}
+#box3 a {color: #444; margin: 10px 0; font-weight: bold}
+#box3 .row {margin-bottom: 20px}
+#box4 p {text-align: center}
+#box4 .line3 {margin: 30px auto}
+#box4 button {background: rgba(153,112,226,.8); color: #fff; letter-spacing: 1px; border: 1px solid transparent}
+#box4 button:hover {background: rgba(153,112,226,1)}
+#box4 li {width: 40px; height: 40px; border-radius: 50%; background: #f2f2f2; margin: 0 5px}
+#box4 li span {color: #374760; font-size: 15px; text-align: center; line-height: 40px}
+#btn {background: #aa81f3; width: 47px; height: 21px; position: fixed; right: 20px; bottom: 10px; border-radius: 3px; color: #fff; font-size: 12px;line-height: 21px; letter-spacing: 1px; border: 0 none; outline: none}
+.section {padding-top: 50px; padding-bottom: 80px}
+#box4 h3 {margin-top: 25px}
